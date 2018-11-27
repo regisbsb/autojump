@@ -1,7 +1,7 @@
 NAME
 ----
 
-autojump - a faster way to navigate your filesystem [![Build Status](https://travis-ci.org/floydpink/autojump.svg?branch=master)](https://travis-ci.org/floydpink/autojump)
+autojump - a faster way to navigate your filesystem [![Build Status](https://travis-ci.org/regisbsb/autojump.svg?branch=master)](https://travis-ci.org/regisbsb/autojump)
 
 DESCRIPTION
 -----------
